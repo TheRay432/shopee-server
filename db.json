@@ -1,0 +1,192 @@
+{
+  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" },
+  "products": [
+    {
+      "productId": "1",
+      "productName": "1測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/1398688/pexels-photo-1398688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": "",
+      "keyword": "test"
+    },
+    {
+      "productId": "2",
+      "productName": "2測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "3",
+      "productName": "3試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/2532006/pexels-photo-2532006.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "4",
+      "productName": "4品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/128402/pexels-photo-128402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "5",
+      "productName": "5測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/725990/pexels-photo-725990.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "6",
+      "productName": "6測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/1435898/pexels-photo-1435898.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "7",
+      "productName": "7品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/128408/pexels-photo-128408.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "8",
+      "productName": "8測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/1765012/pexels-photo-1765012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "9",
+      "productName": "9商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/2697229/pexels-photo-2697229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "10",
+      "productName": "10品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/708587/pexels-photo-708587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "11",
+      "productName": "11品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/2412950/pexels-photo-2412950.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "12",
+      "productName": "12測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/921367/pexels-photo-921367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "13",
+      "productName": "13測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/1058714/pexels-photo-1058714.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "14",
+      "productName": "14試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/2703468/pexels-photo-2703468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "15",
+      "productName": "15測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/2773940/pexels-photo-2773940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "16",
+      "productName": "16測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/1456262/pexels-photo-1456262.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "17",
+      "productName": "17試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/42326/noodles-pasta-spaghetti-farfalle-42326.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "18",
+      "productName": "18試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/921362/pexels-photo-921362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "19",
+      "productName": "19試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/1087904/pexels-photo-1087904.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "20",
+      "productName": "20測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/1437812/pexels-photo-1437812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "21",
+      "productName": "21測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/19222506/pexels-photo-19222506.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "22",
+      "productName": "22測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/842519/pexels-photo-842519.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    },
+    {
+      "productId": "23",
+      "productName": "23測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+      "productImage": "https://images.pexels.com/photos/3343622/pexels-photo-3343622.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "2000",
+      "sold": "1000",
+      "banner": ""
+    }
+  ]
+}
